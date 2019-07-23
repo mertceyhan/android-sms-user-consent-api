@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SMS User Consent API</string>
+    <string name="enter_your_verification_code">Enter your verification code</string>
 </resources>
